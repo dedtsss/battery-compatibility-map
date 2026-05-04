@@ -1,0 +1,54 @@
+source,target,type,condition,evidence,confidence,note,category
+AEG АКБ,AEG инструмент,compatible,"B1214G, L1215R, L1430R, L1815R/L1830R внутри своих серий",text,high,стартовая таблица,official
+Black+Decker A14E/A18E,Black+Decker EPC14/EPC18,compatible,внутри старых NiCd-серий,text,high,стартовая таблица,official
+DeWalt DCB181,DeWalt XR 18V,compatible,XR-серия,text,high,стартовая таблица,official
+Makita BL1013/BL1430 и старые типы,Makita инструмент своих серий,compatible,"по типу АКБ: 7.2V, 9.6V, 10.8V, 14.4V, 18V",text,high,стартовая таблица,official
+Ryobi ONE+ 18V,Ryobi ONE+ инструмент,compatible,BPP1817M/BCP1817M/RB18L15/RBC18L15,text,high,стартовая таблица,official
+Makita-совместимые китайские АКБ,ДИОЛД ДЭА-20 Л-08,compatible,подходят китайские Makita-АКБ,photo+text,high,стр.11,makita
+Makita-совместимые китайские АКБ,Mac Allister 18V,adapter,переходник под китайские АКБ Makita,photo+text,medium,стр.10,makita
+Makita-совместимые китайские АКБ,PIT инструмент,adapter,"есть переходник; иногда нужна подрезка пластика",photo+text,medium,стр.10–11,makita
+Makita-совместимые китайские АКБ,Nocord 18V,adapter,адаптер под Makita хорошо встает на инструмент Nocord 18V,photo+text,medium,стр.10,makita
+Makita-совместимые китайские АКБ,HUTER ELS-40-4Li,modification,"механически подходят некоторые Makita-подобные АКБ; нужна перемычка на термодатчик; нужна высокая токоотдача",photo+text,medium,стр.3,makita
+Makita-совместимые китайские АКБ,Фиолент ДША 1-10-РЭЗ-18,adapter,литиевых аналогов нет; рекомендован прикручиваемый адаптер под Makita,text,medium,стр.10,makita
+Makita-совместимые китайские АКБ,Zitrek GreenCut 20,compatible,можно заменить любым макитообразным 18V АКБ,photo+text,medium,стр.2,makita
+Makita-совместимые китайские АКБ,Yamato BCD21-2.0/2,compatible,подходят любые макитообразные,photo+text,medium,стр.2,makita
+Makita-совместимые китайские АКБ,Daewoo DAA 7521Li,compatible,подходят любые макитообразные;text,medium,стр.8,makita
+Makita-совместимые китайские АКБ,Krotof / CCS 21V,compatible,подходят любые макитообразные,photo+text,medium,стр.8,makita
+Makita-совместимые китайские АКБ,FD Brait,compatible,указано: любые макитообразные,photo+text,medium,стр.9,makita
+Makita-совместимые китайские АКБ,BDWTECH BT526,adapter,рекомендован переходник для питания от обычной Makita,photo+text,medium,стр.10,makita
+Makita-совместимые китайские АКБ,Bull 20V,adapter,есть переходник под АКБ Makita,photo+text,medium,стр.10,makita
+Makita-совместимые китайские АКБ,Patriot UES 21V,adapter,"переходник Patriot UES 21V → Makita 18V LXT подходит, но надо подрезать пластик",photo+text,medium,стр.7,makita
+PIT PSR18-D4 / Серия D,Oasis AS 18 Eco,compatible,семейство совместимости Series D / P.I.T.,photo+text,high,стр.10,pit
+PIT PSR18-D4 / Серия D,ASB 18 Eco,compatible,подходит на АКБ ASB 18 Eco,photo+text,high,стр.10,pit
+PIT PSR18-D4 / Серия D,AS-18V Eco(J),compatible,подходит на АКБ AS-18V Eco(J),photo+text,high,стр.10,pit
+PIT PSR18-D4 / Серия D,ASB-18S / ASU-18S,compatible,указаны в совместимой группе,photo+text,high,стр.10,pit
+PIT PSR18-D4 / Серия D,Дифмаш ША-21-01М,compatible,указан в совместимой группе,photo+text,high,стр.10,pit
+PIT PSR18-D4 / Серия D,OASIS ASB-24S,compatible,указан в совместимой группе,photo+text,high,стр.10,pit
+Hiper HCD18B,Oasis AS 18 Eco,compatible,аналог АКБ для Hiper HCD18B — AS 18 Eco Oasis,photo+text,medium,стр.11,pit
+Bosch 12V,Китайский PIT 12V,compatible,АКБ Bosch подходят на китайский PIT 12V,photo+text,medium,стр.1,boschWorx
+Bosch 18V,Trigger 20111,compatible,полная совместимость с АКБ Bosch и обратно,photo+text,high,стр.1,boschWorx
+SAFUN 18V,Bosch 18V,modification,"совместимы, защелка по-другому, но фиксируется",photo+text,medium,стр.2,boschWorx
+Worx АКБ,Wesco WS9940/WS9970,compatible,совместимость Worx и Wesco; есть ограничения по 4-му контакту,photo+text,medium,стр.1,boschWorx
+Worx 21V,Patriot AES 21V,adapter,указан переходник Worx → Patriot,photo+text,medium,стр.10,boschWorx
+P20S,INGCO / TOTAL / WADFOW / JADEVER,compatible,Total он же INGCO; совместимость P20S / INGCO / TOTAL / WADFOW / JADEVER,photo+text,high,стр.10,p20s
+Feng Bao,Интерскол 18V,adapter,готовый переходник на Ozon/WB,photo+text,medium,стр.11,p20s
+Feng Bao,Vargonic / NAWIN / Dayi / NANWEI,compatible,указаны совместимые/родственные варианты,text,medium,стр.6,p20s
+TIELLIO,Feng Bao FB-15-2 и подобные,compatible,к сабельным пилам: Feng Bao FB-15-2 и подобные китайцы,photo+text,medium,стр.11,p20s
+BILDR 21V,NANWEI 398 TV / Feng Bao / Aobalong / Tynum / YAOTO bs,compatible,указаны подходящие/родственные производители,photo+text,medium,стр.10,p20s
+Elitech 1820.098600,Вихрь / Ресанта,compatible,полная совместимость с Вихрь и Ресанта,photo+text,high,стр.4,russian
+Wosai 20V,Вихрь,compatible,подходят АКБ от Вихрь,photo+text,medium,стр.4,russian
+Nocord 20V,NBD/NBDI/NBG/NCD 20V модели,compatible,перечислены совместимые модели Nocord 20V,photo+text,high,стр.4,russian
+Nocord,Dexter/Lexman,adapter,готовый адаптер под Nocord; требуется проверка защелкивания,photo+text,medium,стр.11,russian
+Stanley SB20D,Black+Decker BL2018,modification,подходит но потребовался паз/напильник из-за зеркального отличия,photo+text,medium,стр.5,russian
+Ryobi 36/40V,китайские копии / 2×18V через переходник,adapter,прямых аналогов нет; можно китайские копии или переходник на две 18V батареи,text,medium,стр.8,garden40
+FUBAG FA 4040 Li,Hyundai 40V Garden HYBAT40Li25 / HYCH405,compatible,указан аналог Hyundai 40V,photo+text,medium,стр.7,garden40
+PATRIOT старая 18V,PATRIOT новая 21V,incompatible,старая и новая версия не совместимы,photo+text,high,стр.1,negative
+HUTER GET-28Li / ДА 18-2Li,HUTER ELS-2-Li-6K,incompatible,разные разъемы; совместимых пил под эту АКБ в теме не найдено,photo+text,high,стр.3,negative
+Makita BL,TOUA DCCN40A без газа,incompatible,"Makita BL не подходит; доп. контакт расположен иначе; подходят оригинал, FTL, серия B/G",photo+text,high,стр.10,negative
+Tonfon 12V,аналоги АКБ,noAnalog,аналогов АКБ не найдено,photo+text,medium,стр.10,negative
+Hammer ASK42,готовые аналоги,noAnalog,аналогов нет; можно переделать под любую АКБ на 40V,photo+text,medium,стр.2,negative
+Denzel,DeWalt АКБ,incompatible,DeWalt АКБ на Denzel не подходят,photo+text,medium,стр.2,negative
+Denzel,Black+Decker 18V,incompatible,Black+Decker 18V и Denzel не совместимы,photo+text,medium,стр.2,negative
+Graphite/Denzel 18V,Einhell PXC,incompatible,не подходят вообще,text,medium,стр.8,negative
+Crown 20V,Makita/DeWalt 18V,noAnalog,готового адаптера пока нет; схема не дана,text,medium,стр.10–11,negative
+Redbo OLB-20/4.0,Makita / готовые адаптеры,noAnalog,"Makita-подобный разъем меньше, Makita не лезет; готовых адаптеров нет",photo+text,medium,стр.11,negative
